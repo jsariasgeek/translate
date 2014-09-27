@@ -121,3 +121,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+
+site_title = 'My Translate'
